@@ -13,6 +13,10 @@ export default function BirthdayPage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-pink-100 via-rose-200 to-red-100 flex flex-col items-center justify-center p-6">
+      <audio autoPlay loop>
+  <source src="/bg-music.mp3" type="audio/mpeg" />
+  Your browser does not support the audio element.
+</audio>
       <h1 className="text-4xl md:text-5xl font-bold text-rose-700 text-center mb-4 animate-pulse">
         🎉 Happy Birthday, Sayang! 🎂
       </h1>
