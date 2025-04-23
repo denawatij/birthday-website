@@ -17,9 +17,9 @@ export default function BirthdayPage() {
         🎉 Happy Birthday, Sayang! 🎂
       </h1>
       <p className="text-center text-lg md:text-xl max-w-xl text-gray-800 mb-6">
-        Selamat ulang tahun untuk suami terbaik di dunia. Terima kasih sudah jadi cinta
-        sejati yang selalu sabar dan penuh kasih. Semoga tahun ini penuh berkah, tawa,
-        dan impian yang jadi nyata. I love you, always. ❤️
+        Happy birthday my beloved hubby. Thank you sudah selalu sabar
+        dan penuh cinta. May this year be filled with joy, love,
+        and unexpected blessings. I love you, always. Let's grow old together❤️
       </p>
       
       <div className="bg-white rounded-2xl shadow-lg w-full max-w-sm p-6">
@@ -29,7 +29,7 @@ export default function BirthdayPage() {
           className="rounded-xl mb-4 shadow-md border w-60 h-auto object-cover mx-auto"
         />
         <p className="text-md text-gray-700 text-center">
-          Ini foto kamu yang paling aku suka. Selalu terlihat hangat dan penuh cinta 🥰
+          Happy Birthday! 🥰
         </p>
       </div>
 
