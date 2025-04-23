@@ -23,7 +23,7 @@ export default function BirthdayPage() {
       <p className="text-center text-lg md:text-xl max-w-xl text-gray-800 mb-6">
         Happy birthday my beloved hubby. Thank you sudah selalu sabar
         dan penuh cinta. May this year be filled with joy, love,
-        and unexpected blessings. I love you, always. Lets grow old together❤️
+        and unexpected blessings. I love you, always. Lets grow old together ❤️
       </p>
       
       <div className="bg-white rounded-2xl shadow-lg w-full max-w-sm p-6">
